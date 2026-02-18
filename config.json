@@ -1,0 +1,11 @@
+{
+  "token": "bot token",
+  "clientId": "bot client id",
+  "controlGuildId": "guildid",
+  "logGuildId": "guildid",
+  "logChannelId": "channelid",
+  "allowedRoles": ["roleid"],
+  "appealServerLink": "https://discord.gg/YOUR_APPEAL_INVITE_CODE",
+  "checkInterval": 300000,
+  "notifyChannelId": "channelid"
+}
